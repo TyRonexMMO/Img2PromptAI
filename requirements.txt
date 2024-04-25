@@ -1,2 +1,2 @@
-google-generative-ai==1.0.0
+google-generative-ai==0.5.2
 streamlit
